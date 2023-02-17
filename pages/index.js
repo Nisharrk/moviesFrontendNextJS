@@ -5,7 +5,8 @@
  * (including web sites) or distributed to other students.
  *
  * Name: Nishant Sharma   Student ID: 150619203   Date: 02/16/2023
- * Github Link:
+ * Github Link: https://github.com/Nisharrk/moviesFrontendNextJS
+ * Deployed Link:
  *
  ********************************************************************************/
 
